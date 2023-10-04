@@ -1,3 +1,3 @@
-# aplicacion para reconocimiento de digitos del conjunto 
+# aplicacion para reconocimiento de digitos del conjunto mnist
 
 ❤️
